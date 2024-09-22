@@ -107,7 +107,6 @@ def animate(i):
 
 ani = animation.FuncAnimation(fig, animate, interval=100)
 
-# Ensure proper layout
 plt.tight_layout()
 
 plt.show()
