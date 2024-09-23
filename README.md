@@ -1,4 +1,4 @@
-# Neural Network with training visualizer
+# C++ Neural Network with Training Visualizer
 <img align="right" width="1280" src="https://github.com/000x999/000x999_gifs/blob/main/ShorterVers_1.gif">
 A C++ implementation of a Neural Network, along with a real-time training visualizer and data generation tool. The project aims to visualize the error, gradient, and weight values as the neural network trains over iterations.
 
