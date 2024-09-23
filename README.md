@@ -3,7 +3,7 @@
 A C++ implementation of a Neural Network, along with a real-time training visualizer and data generation tool. The project aims to visualize the error, gradient, and weight values as the neural network trains over iterations.
 
 ## Features
-- **Neural Network in C++**: A simple feedforward neural network with training using backpropagation.
+- **Neural Network in C++**: A simple feedforward neural network with training using backpropagation and activation functions.
 - **Real-Time Training Visualizer**: Visualizes error, gradients, and weights over iterations using a Python script.
 - **Random Training Data Generator**: A Python script to generate random training data in the required format.
 - **Terminal Output Logging**: Logs all output to `Outs.txt` for further analysis while still displaying on the terminal.
